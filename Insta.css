@@ -1,0 +1,50 @@
+.container {
+    border-style:solid;
+    border-color:lightgrey;
+    height:620px;
+    width:370px;
+    margin:10px;
+}
+.section {
+    border-style:solid;
+    border-color:lightgrey;
+    height:50px;
+    width:370px;
+    margin-top:9px;
+}
+p {
+    font-size:xx-large;
+    font-family:Cambria,Cochin, Georgia, Times,'Times New Roman', serif;
+}
+.buttonstyle {
+    background-color: rgb(22, 141, 238);
+    size:15px;
+    width:80%;
+    padding:9px;
+    margin:1px;
+    border-radius:8px;
+    border-color:white;
+    color:white;
+    font-size: 15px;
+}
+.image {
+    margin-right:5px;
+    height:16px;
+    width:16px;
+}
+h3  {
+    margin:9px;
+    color:gray;
+}
+.input {
+    size:11px;
+    width:80%;
+    padding:9px;
+    margin:3px;
+    color:gray;
+    border-radius: 3px;
+}
+a {
+    text-decoration: none;
+    color: rgb(22, 141, 238);
+}

@@ -1,0 +1,65 @@
+body {
+    background-color:rgb(240, 195, 202);
+  }
+
+  h1 {
+    color:rgb(56, 147, 184);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align:center;
+  }
+
+  #para1 {
+    color:blueviolet
+  }
+
+  #para2 {
+    color:crimson
+  }
+
+  p {
+    text-align: left;
+  }
+
+  .center {
+    text-align: center;
+  }
+
+  .largeFont {
+    font-size: large;
+  }
+
+  .container {
+    display:flex;
+    justify-content: space-between;
+  
+  }
+  .myOL {
+    display:inline-block;
+    text-align: center;
+  }
+ 
+
+  table ,th,td{
+    margin-left: auto;
+    margin-right: auto;
+    border-color: black;
+    border:1px solid black;
+    margin:10px;
+    font-size:20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+  }
+  .mydesign {
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 10px;
+    padding-right: 20px;
+  
+  }
+  .section {
+    display:flex;
+    justify-content: space-between;
+    padding:35px;
+    width:100%;
+    
+  }
